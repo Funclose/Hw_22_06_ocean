@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\bin\Debug\hw_22_06_ocean.exe.config
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\bin\Debug\hw_22_06_ocean.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\bin\Debug\hw_22_06_ocean.pdb
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\obj\Debug\hw_22_06_ocean.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\obj\Debug\hw_22_06_ocean.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\obj\Debug\hw_22_06_ocean.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_22_06_ocean\obj\Debug\hw_22_06_ocean.pdb
